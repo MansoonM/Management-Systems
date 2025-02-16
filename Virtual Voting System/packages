@@ -1,0 +1,5 @@
+// install these packages
+
+pip install tkinter
+pip install mysql-connector-python
+pip install bcrypt
